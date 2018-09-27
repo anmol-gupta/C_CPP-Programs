@@ -61,3 +61,6 @@ int main() {
 	}
 	return 0;
 }
+
+
+// Space Complexity of Merge Sort is O(n) and time complexity is O(nlogn).
